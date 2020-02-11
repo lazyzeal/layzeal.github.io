@@ -1,5 +1,3 @@
-# lazeal.github.io
-
-个人博客，基于 Github Pages + Jekyll 搭建
-
-模板来自 [Yummy Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
+# layzeal.github.io
+个人主页，基于 GitHub Pages + Jekyll 制作 
+模板：[TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
